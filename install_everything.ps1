@@ -71,7 +71,7 @@ $Apps = @(
     "powershell-core",
     "DSC.PSDesiredStateConfiguration",
     "azure-cli",
-    "microsoftazurestorageexplorer",
+    "MicrosoftAzurestorageExplorer",
     "postman",
     "python",
     "kubernetes-cli",
