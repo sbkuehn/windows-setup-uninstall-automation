@@ -83,7 +83,7 @@ $Apps = @(
     "microsoft-office-deployment",
     "slack",
     "vscode",
-    "visualstudio2022enterprise --package-parameters '--passive --includeRecommended'",
+    "visualstudio2026enterprise",
     "dotnet-sdk",
     "microsoft-windows-terminal"
 )
