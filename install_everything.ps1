@@ -71,6 +71,7 @@ $Apps = @(
     "powershell-core",
     "DSC.PSDesiredStateConfiguration",
     "azure-cli",
+    "office365business",
     "MicrosoftAzurestorageExplorer",
     "postman",
     "python",
